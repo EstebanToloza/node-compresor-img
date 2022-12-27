@@ -1,0 +1,7 @@
+File from: [./entrada/tag-cat3.png]
+
+File to: [./salida/tag-cat3.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\HP_Envy_15\Desktop\compresor-img\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o ./salida/tag-cat3.png ./entrada/tag-cat3.png

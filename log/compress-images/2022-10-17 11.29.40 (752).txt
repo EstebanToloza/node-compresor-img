@@ -1,0 +1,8 @@
+File from: [./entrada/p-31.jpg]
+
+File to: [./salida/p-31.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: C:\Users\HP_Envy_15\Desktop\compresor-img\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile ./salida/p-31.jpg ./entrada/p-31.jpg
+Unrecognized input file format --- perhaps you need -targa

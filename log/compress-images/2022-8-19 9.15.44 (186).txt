@@ -1,0 +1,7 @@
+File from: [./entrada/longuines-principal.png]
+
+File to: [./salida/longuines-principal.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\HP_Envy_15\Desktop\compresor-img\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o ./salida/longuines-principal.png ./entrada/longuines-principal.png
